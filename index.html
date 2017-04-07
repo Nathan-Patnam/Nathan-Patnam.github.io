@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <!-- CSS-->
     <link href='CSS/index.css' rel='stylesheet' type='text/css'>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- JavaScript-->
+    <script type="text/javascript" src="JavaScript/index.html.js"></script>
     <!-- What the tab on my personal website will say-->
     <title>Nathan Patnam- Undergraduate Student & Student Web Devevloper at Wofford College</title>
 
@@ -12,30 +15,30 @@
 
 
 <body>
-<div class="header">
-   <ul id="navBar">
-       <li><a href="#pnlHome">Home</a></li>
-       <li><a href="#pnlAboutMe">About Me</a></li>
-       <li><a href="#pnlPortfolio">Portfolio</a></li>
-       <li><a href="#pnlResume">Resume</a></li>
-       <li><a href="#pnlContactMe">Contact Me</a></li>
-       <li><a href="#pnlBlog">Blog</a> </li>
+<!--Navigation Bar-->
+<div class="tabs-animated">
+   <ul class="nav nav-tabs" role="tablist">
+       <li role="presentation" class="active"><a href="#pnlHome">Home</a></li>
+       <li role="presentation" ><a href="#pnlAboutMe">About Me</a></li>
+       <li role="presentation" ><a href="#pnlPortfolio">Portfolio</a></li>
+       <li role="presentation" ><a href="#pnlResume">Resume</a></li>
+       <li role="presentation" ><a href="#pnlContactMe">Contact Me</a></li>
+       <li role="presentation" ><a href="#pnlBlog">Blog</a> </li>
    </ul>
 
 
-
-<div class="body">
-    <div id="pnlHome"></div>
-    <div id="pnlAboutMe"></div>
-    <div id="pnlPortfolio"></div>
-    <div id="pnlResume"></div>
-    <div id="pnlContactMe"></div>
-    <div id="pnlBlog">Coming Soon</div>
+<!--Body of the website-->
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane fade in active" id="pnlHome">Hi</div>
+    <div role="tabpanel" class="tab-pane fade" id="pnlAboutMe"></div>
+    <div role="tabpanel" class="tab-pane fade" id="pnlPortfolio"></div>
+    <div role="tabpanel" class="tab-pane fade" id="pnlResume"></div>
+    <div role="tabpanel" class="tab-pane fade" id="pnlContactMe"></div>
+    <div role="tabpanel" class="tab-pane fade" id="pnlBlog">Coming Soon</div>
 </div>
 
 
-
-
+</div>
 <div class="footer">
     <br>
     <br>
@@ -45,7 +48,9 @@
     <a href="mailto:patnamnv@email.wofford.edu">Email</a>
     <a>Portfolio</a>
     <a >Resume</a>
-
 </div>
+<!--Scripts for loading the slide tabs-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
