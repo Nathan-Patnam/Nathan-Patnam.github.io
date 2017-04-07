@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <!-- Temporary Logo -->
+    <link rel="icon" href="Images/Personal Website Logo.png">
     <!-- CSS-->
     <link href='CSS/index.css' rel='stylesheet' type='text/css'>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
@@ -38,15 +40,41 @@
     <div role="tabpanel" class="tab-pane fade" id="pnlPortfolio"></div>
 
 
-    <div role="tabpanel" class="tab-pane fade" id="pnlResume"></div>
+    <div role="tabpanel" class="tab-pane fade" id="pnlResume">
+        <h1>For a downloadble PDF version of my resume click <a href="Files/ResumePatnamnnv.pdf">here.</a></h1>
 
 
-    <div role="tabpanel" class="tab-pane fade" id="pnlContactMe"></div>
+
+    </div>
+
+
+    <div role="tabpanel" class="tab-pane fade" id="pnlContactMe">
+        <form
+                action="mailto:123@gmail.com"
+                method="POST"
+                enctype="multipart/form-data"
+                name="EmailTestForm">
+
+            Your Name:<br>
+            <input type="text" size="20" name="VisitorName" required><br><br>
+
+            Your Comment:<br>
+            <textarea name="VisitorComment" rows="4" cols="20">
+            </textarea>
+            <br>
+            <br>
+
+            <input type="submit" value="Email This Form">
+
+        </form>
+
+
+    </div>
 
 
     <div role="tabpanel" class="tab-pane fade" id="pnlBlog">Coming Soon</div>
 
-    
+
 </div>
 
 
