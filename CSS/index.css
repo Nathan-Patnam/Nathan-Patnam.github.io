@@ -1,3 +1,7 @@
+.header{
+    background-color: #EAEAEA;
+
+}
 .body{
     margin:0;
     padding:0;
@@ -11,6 +15,33 @@
     height:150px;
 
 }
+
+ul#navBar {
+    list-style-type: none;
+}
+
+li#name {
+    padding-left:80px;
+}
+ul#navBar li{
+    float:left;
+    padding: 10px;
+}
+
+ul#navBar{
+
+    display: block;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+ul#navBar a:hover {
+    background-color: seashell;
+}
+
+
+
 .footer h1{
     color: #EAEAEA;
 }
