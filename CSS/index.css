@@ -1,0 +1,24 @@
+.body{
+    margin:0;
+    padding:0;
+    background-color: #EAEAEA;
+}
+.footer{
+    margin:0;
+    padding: 0;
+    background-color: #222;
+    width:100%;
+    height:150px;
+
+}
+.footer h1{
+    color: #EAEAEA;
+}
+.footer a{
+    color: #EAEAEA;
+    margin-left: 6px;
+}
+.contactImages{
+    width:100px;
+    height:100px;
+}
