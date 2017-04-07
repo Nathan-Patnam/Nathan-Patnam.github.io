@@ -17,24 +17,36 @@
 <body>
 <!--Navigation Bar-->
 <div class="tabs-animated">
-   <ul class="nav nav-tabs" role="tablist">
-       <li role="presentation" class="active"><a href="#pnlHome">Home</a></li>
-       <li role="presentation" ><a href="#pnlAboutMe">About Me</a></li>
-       <li role="presentation" ><a href="#pnlPortfolio">Portfolio</a></li>
-       <li role="presentation" ><a href="#pnlResume">Resume</a></li>
-       <li role="presentation" ><a href="#pnlContactMe">Contact Me</a></li>
-       <li role="presentation" ><a href="#pnlBlog">Blog</a> </li>
+   <ul class="nav nav-tabs" role="tablist" >
+       <li role="presentation" class="active"><a href="#pnlHome" aria-controls="pnlHome" role="tab" data-toggle="tab">Home</a></li>
+       <li role="presentation" ><a href="#pnlAboutMe" aria-controls="pnlAboutMe" role="tab" data-toggle="tab">About Me</a></li>
+       <li role="presentation" ><a href="#pnlPortfolio" aria-controls="pnlPortfolio" role="tab" data-toggle="tab">Portfolio</a></li>
+       <li role="presentation" ><a href="#pnlResume" aria-controls="pnlResume" role="tab" data-toggle="tab">Resume</a></li>
+       <li role="presentation" ><a href="#pnlContactMe" aria-controls="pnContactMe" role="tab" data-toggle="tab">Contact Me</a></li>
+       <li role="presentation" ><a href="#pnlBlog" aria-controls="pnlBlog" role="tab" data-toggle="tab">Blog</a> </li>
    </ul>
 
 
 <!--Body of the website-->
-<div class="tab-content">
+<div class="tab-content" >
     <div role="tabpanel" class="tab-pane fade in active" id="pnlHome">Hi</div>
+
+
     <div role="tabpanel" class="tab-pane fade" id="pnlAboutMe"></div>
+
+
     <div role="tabpanel" class="tab-pane fade" id="pnlPortfolio"></div>
+
+
     <div role="tabpanel" class="tab-pane fade" id="pnlResume"></div>
+
+
     <div role="tabpanel" class="tab-pane fade" id="pnlContactMe"></div>
+
+
     <div role="tabpanel" class="tab-pane fade" id="pnlBlog">Coming Soon</div>
+
+    
 </div>
 
 
