@@ -17,11 +17,13 @@
 
 
 <body>
+
 <!--Navigation Bar-->
 <div class="tabs-animated">
    <ul class="nav nav-tabs" role="tablist" >
-       <li role="presentation" class="active"><a href="#pnlHome" aria-controls="pnlHome" role="tab" data-toggle="tab">Home</a></li>
-       <li role="presentation" ><a href="#pnlAboutMe" aria-controls="pnlAboutMe" role="tab" data-toggle="tab">About Me</a></li>
+       <li><h1 id="websiteName" style="font-size: 25px;font-family:Source Sans Pro,sans-serif; font-weight: normal;
+           letter-spacing: 2px;"><a href="index.html">Nathan Patnam</a></h1></li>
+       <li role="presentation" class="active" ><a href="#pnlHome" aria-controls="pnlHome" role="tab" data-toggle="tab">Home</a></li>
        <li role="presentation" ><a href="#pnlPortfolio" aria-controls="pnlPortfolio" role="tab" data-toggle="tab">Portfolio</a></li>
        <li role="presentation" ><a href="#pnlResume" aria-controls="pnlResume" role="tab" data-toggle="tab">Resume</a></li>
        <li role="presentation" ><a href="#pnlContactMe" aria-controls="pnContactMe" role="tab" data-toggle="tab">Contact Me</a></li>
@@ -31,13 +33,21 @@
 
 <!--Body of the website-->
 <div class="tab-content" >
-    <div role="tabpanel" class="tab-pane fade in active" id="pnlHome">Hi</div>
+    <div role="tabpanel" class="tab-pane fade in active" id="pnlHome">
+        <img src="Images/personalPicture.png" alt="This is a personal picture of me in a suit smiling">
+    </div>
 
 
-    <div role="tabpanel" class="tab-pane fade" id="pnlAboutMe"></div>
+
+    <div role="tabpanel" class="tab-pane fade" id="pnlPortfolio">
+        <!-- Wofford Stuff-->
+        <button class="accordion">Wofford College </button>
+        <div class="panel">
+            <p>I work as a Student Web Developer for the college where I write mainly webpagesa and webforms.</p>
+        </div>
 
 
-    <div role="tabpanel" class="tab-pane fade" id="pnlPortfolio"></div>
+    </div>
 
 
     <div role="tabpanel" class="tab-pane fade" id="pnlResume">
@@ -55,16 +65,34 @@
                 enctype="multipart/form-data"
                 name="EmailTestForm">
 
-            Your Name:<br>
-            <input type="text" size="20" name="VisitorName" required><br><br>
+            <table >
+                <tr>
+                    <td>
+                        <p>First Name*  <input type="text" size="20" name="VisitorFirstName" required></p>
 
-            Your Comment:<br>
-            <textarea name="VisitorComment" rows="4" cols="20">
+                </td>
+                    <td>
+                        <p>Last Name*  <input type="text" size="20" name="VisitorLastName" required></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Your Message:<br>
+                        <textarea name="VisitorComment" rows="4" cols="20">
             </textarea>
-            <br>
-            <br>
+                        <br>
+                        <br>
 
-            <input type="submit" value="Email This Form">
+                        <input type="submit" value="Email This Form">
+                    </td>
+                </tr>
+
+
+
+
+            </table>
+
+
 
         </form>
 
@@ -79,15 +107,14 @@
 
 
 </div>
-<div class="footer">
+<div class="footer" align="center">
     <br>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/nathan-patnam" target="_blank">Linkedin</a>
-    <a href="https://github.com/Nathan-Patnam" target="_blank">GitHub</a>
-    <a href="mailto:patnamnv@email.wofford.edu">Email</a>
-    <a>Portfolio</a>
-    <a >Resume</a>
+    <a href="https://www.linkedin.com/in/nathan-patnam" target="_blank" style="text-decoration:none;">Linkedin</a>
+    <a href="https://github.com/Nathan-Patnam" target="_blank" style="text-decoration:none;">GitHub</a>
+    <a href="mailto:patnamnv@email.wofford.edu" target="_blank" style="text-decoration:none;">Email</a>
+    <a style="text-decoration:none;" href="Files/ResumePatnamnnv.pdf" target="_blank">Resume</a>
 </div>
 <!--Scripts for loading the slide tabs-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
