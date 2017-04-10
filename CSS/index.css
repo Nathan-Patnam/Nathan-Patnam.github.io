@@ -102,7 +102,9 @@ table{
     margin-right: auto;
 
 }
-
+#PROFILEPICTURE{
+    float: left;
+}
 /* Footer CSS*/
 .footer{
     margin:0;
