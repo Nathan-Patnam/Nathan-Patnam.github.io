@@ -6,9 +6,10 @@ $(document).ready(function(){
 console.log("importing this files works");
     $("div#myNavbar ul li a").click(function(){
         console.log("nav bar clicked");
-        $(".newscontainer").hide();
+
+        $(".newscontainer").fadeOut('slow');
         var myDiv = $(this).attr("href");
-        $(myDiv).show();
+        $(myDiv).fadeIn('slow');
     });
 
 
