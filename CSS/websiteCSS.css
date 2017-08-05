@@ -12,3 +12,7 @@ body > footer > div > p > a {
     padding: 8px;
     /* padding-top: 20px; */
 }
+/* Content for other tabs hidden on start*/
+.newscontainer {
+    display:none;
+}
