@@ -8,7 +8,7 @@ console.log("importing this files works");
         console.log("nav bar clickedddd");
         $(".newscontainer").fadeOut('slow', function(){
             var myDiv = $(this).attr("href");
-            $(".newscontainer").replace($(myDiv)).fadeIn('slow');
+          $(myDiv).fadeIn('slow');
         });
 
     });
