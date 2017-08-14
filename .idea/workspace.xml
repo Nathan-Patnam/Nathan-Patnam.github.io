@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9c3529e-5a2b-43e3-8ead-8b1ad2841830" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
-              <caret line="291" column="46" lean-forward="true" selection-start-line="291" selection-start-column="46" selection-end-line="291" selection-end-column="46" />
+              <caret line="301" column="53" lean-forward="false" selection-start-line="301" selection-start-column="53" selection-end-line="301" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -32,11 +33,9 @@
       <file leaf-file-name="validator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/validator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="-276">
+              <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,8 +55,8 @@
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+            <state relative-caret-position="250">
+              <caret line="349" column="15" lean-forward="true" selection-start-line="349" selection-start-column="15" selection-end-line="349" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -104,13 +103,14 @@
       <find>image</find>
       <find>css</find>
       <find>active</find>
-      <find>a.nav-link.active</find>
       <find>js</find>
-      <find>contact</find>
       <find>services</find>
       <find>contact Me</find>
       <find>valid</find>
       <find>php</find>
+      <find>contact</find>
+      <find>a.nav-link.active</find>
+      <find>firstname</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,9 +131,9 @@
         <option value="$PROJECT_DIR$/Libraries/bootstrap-3.3.7-dist/js/websiteJavascript.js" />
         <option value="$PROJECT_DIR$/CSS/websiteCSS.css" />
         <option value="$PROJECT_DIR$/JS/websiteJavascript.js" />
-        <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/php/contact.php" />
         <option value="$PROJECT_DIR$/js/creative.js" />
+        <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -383,12 +383,12 @@
       <workItem from="1501958875516" duration="3270000" />
       <workItem from="1501965528525" duration="32000" />
       <workItem from="1501980935986" duration="430000" />
-      <workItem from="1502669445416" duration="2584000" />
+      <workItem from="1502669445416" duration="3060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32638000" />
+    <option name="totallyTimeSpent" value="33114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -512,34 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/creative.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="112" column="20" lean-forward="false" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/creative.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="99" column="35" lean-forward="false" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="35" />
-          <folding>
-            <marker date="1502671726000" expanded="true" signature="3088:3095" ph="×" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/validator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/contact-form/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-176">
@@ -556,10 +528,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/creative.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="99" column="35" lean-forward="false" selection-start-line="99" selection-start-column="28" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <marker date="1502671726000" expanded="true" signature="3088:3095" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/creative.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="349" column="15" lean-forward="true" selection-start-line="349" selection-start-column="15" selection-end-line="349" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
-          <caret line="291" column="46" lean-forward="true" selection-start-line="291" selection-start-column="46" selection-end-line="291" selection-end-column="46" />
+          <caret line="301" column="53" lean-forward="false" selection-start-line="301" selection-start-column="53" selection-end-line="301" selection-end-column="53" />
           <folding />
         </state>
       </provider>

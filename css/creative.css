@@ -345,3 +345,12 @@ header.masthead {
 
 .btn-xl {
   padding: 15px 30px; }
+
+/* Footer Styling*/
+section#footer{
+  background-color:#4A423F;
+
+}
+h2#sectionHeading{
+  color:white;
+}
