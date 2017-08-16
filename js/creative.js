@@ -67,8 +67,8 @@
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
         }
     });
-    //when the contact form is clicked
-    $('#contact-form').validator();
+ 
+
 
 
     // when the form is submitted
