@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9c3529e-5a2b-43e3-8ead-8b1ad2841830" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/validator.js" afterPath="$PROJECT_DIR$/js/validator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" afterPath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" afterPath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/tether/tether.js" afterPath="$PROJECT_DIR$/vendor/tether/tether.js" />
-    </list>
+    <list default="true" id="f9c3529e-5a2b-43e3-8ead-8b1ad2841830" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -63,7 +20,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="2460">
               <caret line="164" column="64" lean-forward="false" selection-start-line="164" selection-start-column="64" selection-end-line="164" selection-end-column="64" />
               <folding />
             </state>
@@ -267,17 +224,6 @@
               <item name="Nathan-Patnam.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Nathan-Patnam.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Nathan-Patnam.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Nathan-Patnam.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Nathan-Patnam.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Nathan-Patnam.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -447,16 +393,15 @@
       <workItem from="1501980935986" duration="430000" />
       <workItem from="1502669445416" duration="3060000" />
       <workItem from="1502673308824" duration="106000" />
-      <workItem from="1502673451921" duration="5006000" />
+      <workItem from="1502673451921" duration="5090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38226000" />
+    <option name="totallyTimeSpent" value="38310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -470,7 +415,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19930555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19930555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -662,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="2460">
           <caret line="164" column="64" lean-forward="false" selection-start-line="164" selection-start-column="64" selection-end-line="164" selection-end-column="64" />
           <folding />
         </state>
