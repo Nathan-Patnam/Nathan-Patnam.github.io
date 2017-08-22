@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9c3529e-5a2b-43e3-8ead-8b1ad2841830" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subPages/thankyou.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +24,8 @@
       <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+            <state relative-caret-position="216">
+              <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -52,8 +54,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="236">
+              <caret line="289" column="81" lean-forward="false" selection-start-line="289" selection-start-column="81" selection-end-line="289" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thankyou.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subPages/thankyou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -62,8 +74,8 @@
       <file leaf-file-name="creative.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/creative.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+            <state relative-caret-position="-1163">
+              <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
               <folding>
                 <marker date="1503436243000" expanded="true" signature="2997:3004" ph="×" />
               </folding>
@@ -77,14 +89,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>main</find>
       <find>hero</find>
       <find>left</find>
       <find>panel</find>
@@ -113,6 +124,8 @@
       <find>navbar-toggler</find>
       <find>graysc</find>
       <find>cs</find>
+      <find>treasurer</find>
+      <find>next</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,6 +155,8 @@
         <option value="$USER_HOME$/Documents/college/testWebsites/greyscale/index.html" />
         <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/js/creative.js" />
+        <option value="$PROJECT_DIR$/thankyou.html" />
+        <option value="$PROJECT_DIR$/subPages/thankyou.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -216,6 +231,11 @@
               <item name="Nathan-Patnam.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Nathan-Patnam.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Nathan-Patnam.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="subPages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -240,17 +260,17 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$/php" />
-      <recent name="$PROJECT_DIR$/Images" />
-      <recent name="$PROJECT_DIR$/JS" />
-      <recent name="$PROJECT_DIR$/Libraries/bootstrap-3.3.7-dist/js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Files" />
       <recent name="$PROJECT_DIR$/Images" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/subPages" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/php" />
+      <recent name="$PROJECT_DIR$/Images" />
+      <recent name="$PROJECT_DIR$/JS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -265,9 +285,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.thankyou.html">
     <configuration name="HomePage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Nathan-Patnam.github.io/HomePage.html" />
-    <configuration name="Test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Nathan-Patnam.github.io/Test/Test.html" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -335,21 +354,22 @@
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Nathan-Patnam.github.io/index.html" />
     <configuration name="template.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Nathan-Patnam.github.io/Navbar/template.html" />
+    <configuration name="thankyou.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Nathan-Patnam.github.io/subPages/thankyou.html" />
     <configuration name="tutorial.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Nathan-Patnam.github.io/Navbar/tutorial.html" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Test.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.HomePage.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.tutorial.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.template.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.HomePage.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.tutorial.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.template.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.thankyou.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.HomePage.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.tutorial.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.template.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Test.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.thankyou.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.HomePage.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.tutorial.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.template.html" />
       </list>
     </recent_temporary>
   </component>
@@ -390,12 +410,12 @@
       <workItem from="1502673451921" duration="5317000" />
       <workItem from="1503146564223" duration="541000" />
       <workItem from="1503435762627" duration="19000" />
-      <workItem from="1503435829497" duration="1018000" />
+      <workItem from="1503435829497" duration="3086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40115000" />
+    <option name="totallyTimeSpent" value="42183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -443,7 +463,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test File/index.js" />
     <entry file="file://$PROJECT_DIR$/Test File/index.css" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/CSS/index.css" />
@@ -557,14 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/college/testWebsites/agency/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1705">
@@ -589,20 +600,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/php/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/creative.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+        <state relative-caret-position="-1163">
+          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding>
             <marker date="1503436243000" expanded="true" signature="2997:3004" ph="×" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/subPages/thankyou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="236">
+          <caret line="289" column="81" lean-forward="false" selection-start-line="289" selection-start-column="81" selection-end-line="289" selection-end-column="81" />
           <folding />
         </state>
       </provider>
