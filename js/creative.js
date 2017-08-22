@@ -70,9 +70,8 @@
 
 
 
-
     // when the form is submitted
-    $('#contact-form').on('submit', function (e) {
+    function sendContactEmail() {
 
         // if the validator does not prevent form submit
         if (!e.isDefaultPrevented()) {
@@ -105,5 +104,5 @@
             });
             return false;
         }
-    })
+    }
 })(jQuery); // End of use strict
