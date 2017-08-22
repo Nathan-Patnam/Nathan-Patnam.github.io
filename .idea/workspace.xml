@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9c3529e-5a2b-43e3-8ead-8b1ad2841830" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/creative.js" afterPath="$PROJECT_DIR$/js/creative.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/contact.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -34,18 +32,8 @@
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3779">
-              <caret line="262" column="40" lean-forward="false" selection-start-line="262" selection-start-column="36" selection-end-line="262" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/college/testWebsites/agency/css/agency.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4320">
-              <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="420" selection-end-column="37" />
+            <state relative-caret-position="137">
+              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -61,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="339" column="129" lean-forward="false" selection-start-line="339" selection-start-column="113" selection-end-line="339" selection-end-column="129" />
+            <state relative-caret-position="137">
+              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -74,8 +62,8 @@
       <file leaf-file-name="creative.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/creative.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+            <state relative-caret-position="137">
+              <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
               <folding>
                 <marker date="1503436243000" expanded="true" signature="2997:3004" ph="×" />
               </folding>
@@ -120,8 +108,11 @@
       <find>click here</find>
       <find>validator</find>
       <find>Wofford</find>
-      <find>time</find>
       <find>creative.js</find>
+      <find>time</find>
+      <find>navbar-toggler</find>
+      <find>graysc</find>
+      <find>cs</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,8 +141,8 @@
         <option value="$PROJECT_DIR$/php/contact.php" />
         <option value="$USER_HOME$/Documents/college/testWebsites/greyscale/index.html" />
         <option value="$PROJECT_DIR$/css/creative.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/creative.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -399,12 +390,12 @@
       <workItem from="1502673451921" duration="5317000" />
       <workItem from="1503146564223" duration="541000" />
       <workItem from="1503435762627" duration="19000" />
-      <workItem from="1503435829497" duration="452000" />
+      <workItem from="1503435829497" duration="1018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39549000" />
+    <option name="totallyTimeSpent" value="40115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -532,14 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/college/testWebsites/agency/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4320">
-          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="420" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/about/1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -574,18 +557,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/creative.css">
+    <entry file="file://$PROJECT_DIR$/php/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3779">
-          <caret line="262" column="40" lean-forward="false" selection-start-line="262" selection-start-column="36" selection-end-line="262" selection-end-column="40" />
+        <state relative-caret-position="168">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$USER_HOME$/Documents/college/testWebsites/agency/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="339" column="129" lean-forward="false" selection-start-line="339" selection-start-column="113" selection-end-line="339" selection-end-column="129" />
+        <state relative-caret-position="-1705">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="420" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/creative.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -600,18 +591,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/creative.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        <state relative-caret-position="137">
+          <caret line="79" column="40" lean-forward="false" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
           <folding>
             <marker date="1503436243000" expanded="true" signature="2997:3004" ph="×" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/contact.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        <state relative-caret-position="137">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
