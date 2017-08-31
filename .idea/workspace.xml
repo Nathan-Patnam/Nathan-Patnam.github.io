@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9c3529e-5a2b-43e3-8ead-8b1ad2841830" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/creative.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/creative.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/creative.js" afterPath="$PROJECT_DIR$/js/creative.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,31 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/validator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+            <state relative-caret-position="7">
+              <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -53,10 +40,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2498">
-              <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+            <state relative-caret-position="317">
+              <caret line="179" column="109" lean-forward="false" selection-start-line="179" selection-start-column="109" selection-end-line="179" selection-end-column="109" />
               <folding>
-                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,18 +53,8 @@
       <file leaf-file-name="thankyou.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subPages/thankyou.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="creative.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/creative.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -95,19 +73,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hero</find>
-      <find>left</find>
-      <find>panel</find>
-      <find>form</find>
-      <find>image</find>
-      <find>css</find>
-      <find>active</find>
-      <find>js</find>
-      <find>services</find>
-      <find>contact Me</find>
-      <find>valid</find>
-      <find>php</find>
-      <find>contact</find>
       <find>a.nav-link.active</find>
       <find>firstname</find>
       <find>contact me</find>
@@ -125,6 +90,19 @@
       <find>cs</find>
       <find>treasurer</find>
       <find>next</find>
+      <find>sec</find>
+      <find>180</find>
+      <find>hr</find>
+      <find>3px</find>
+      <find>profileHorizontalLine</find>
+      <find>Contact</find>
+      <find>Contact Me</find>
+      <find>uppercase</find>
+      <find>50px</find>
+      <find>view</find>
+      <find>default</find>
+      <find>aboutTitle</find>
+      <find>Click</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -152,10 +130,10 @@
         <option value="$PROJECT_DIR$/JS/websiteJavascript.js" />
         <option value="$PROJECT_DIR$/php/contact.php" />
         <option value="$USER_HOME$/Documents/college/testWebsites/greyscale/index.html" />
-        <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/thankyou.html" />
         <option value="$PROJECT_DIR$/subPages/thankyou.html" />
         <option value="$PROJECT_DIR$/js/creative.js" />
+        <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -218,6 +196,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,13 +207,12 @@
             <path>
               <item name="Nathan-Patnam.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Nathan-Patnam.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -404,12 +382,15 @@
       <workItem from="1502673451921" duration="5317000" />
       <workItem from="1503146564223" duration="541000" />
       <workItem from="1503435762627" duration="19000" />
-      <workItem from="1503435829497" duration="3626000" />
+      <workItem from="1503435829497" duration="3824000" />
+      <workItem from="1503923132869" duration="2072000" />
+      <workItem from="1504039752891" duration="2410000" />
+      <workItem from="1504148389807" duration="997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42723000" />
+    <option name="totallyTimeSpent" value="48400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -494,20 +475,7 @@
     <entry file="file://$PROJECT_DIR$/css/websiteCSS.css" />
     <entry file="file://$PROJECT_DIR$/LICENSE" />
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/creative.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/creative.min.css" />
     <entry file="file://$USER_HOME$/Downloads/contact-form/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -536,26 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/about/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/about/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/about/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/about/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/about/3.jpg" />
     <entry file="file://$PROJECT_DIR$/img/about/optum.png" />
     <entry file="file://$PROJECT_DIR$/img/personalPicture.png">
       <provider selected="true" editor-type-id="images">
@@ -574,56 +523,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1705">
           <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="420" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/creative.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/about/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/about/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/about/4.jpg" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subPages/thankyou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/validator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subPages/thankyou.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/creative.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state relative-caret-position="7">
+          <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2498">
-          <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        <state relative-caret-position="317">
+          <caret line="179" column="109" lean-forward="false" selection-start-line="179" selection-start-column="109" selection-end-line="179" selection-end-column="109" />
           <folding>
-            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#4;n#form#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

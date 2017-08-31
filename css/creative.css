@@ -9,12 +9,18 @@ body {
   height: 100%; }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
+  font-family: proxima-nova sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  letter-spacing: 0em;
+  line-height: 1.8em;
+  text-transform: none;
+  color: rgba(26,26,26,.75);
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
+}
 
-hr {
-  max-width: 50px;
-  border-width: 3px;
-  border-color: #F05F40; }
+
 
 hr.light {
   border-color: white; }
@@ -27,12 +33,29 @@ a {
   a:hover, a:focus {
     color: #f05f40; }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1{
+  font-weight: 700;
+  font-size: 32px;
+  font-family: adobe-garamond-pro;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  letter-spacing: 0em;
+  line-height: 1em;
+  text-transform: none;
+
+}
+h2.aboutTitle{
+  font-size: 54px;
+  text-align:center;
+  margin-bottom:20px;
+  }
+
+#aboutDescription{
+  text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 p {
@@ -51,7 +74,7 @@ p {
   color: rgba(255, 255, 255, 0.7); }
 
 section {
-  padding: 50px 0; }
+  padding: 50px 80px; }
 
 .section-heading {
   margin-top: 0; }
@@ -145,7 +168,13 @@ body {
             color: white; } }
 
 
-
+#profileHorizontalLine{
+  margin: 40px 0;
+  border-color: #727878;
+  opacity: 0.2;
+  border: 0;
+  border-top: 2px solid #eee;
+}
 
 header.masthead {
   position: relative;
@@ -495,7 +524,10 @@ btn {
   -moz-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
   text-transform: uppercase;
-  border-radius: 0; }
+  border-radius: 0;
+  letter-spacing: 0.05em;
+}
+
 
 .btn-default {
   color: #F05F40;
@@ -542,5 +574,4 @@ img::selection {
 img::-moz-selection {
   background: transparent; }
 
-body {
-  -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2); }
+
