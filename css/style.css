@@ -1223,6 +1223,11 @@ ul li {
   width:52px
 }
 
+#youtube{
+  background:url("../img/youtube.svg") no-repeat scroll center center rgba(0,0,0,0);
+}
+
+
 .skills .section-title {
   color: black;
   font-family:"Merriweather",serif;
