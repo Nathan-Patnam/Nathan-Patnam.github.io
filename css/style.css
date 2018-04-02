@@ -443,7 +443,7 @@ ul li {
 
 .page-container .single-page::before {
 /* never visible - this is used in jQuery to detect if the background image has been loaded  */
-  content:'img/img-1-small.jpg';
+  content:'img/About_Me_Small_Cover.jpg';
   display:none
 }
 
