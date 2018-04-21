@@ -184,7 +184,7 @@ jQuery(document).ready(function($) {
 
 
     // API call for medium articles https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40nathanpatnam
-
+    console.log("function should be called next");
     getMediumArticles()
 
 
@@ -194,61 +194,62 @@ jQuery(document).ready(function($) {
 
 function getMediumArticles(){
     //need to make website https to be able to do this
-    // var content = document.getElementById('content');
-    //
-    // var xhr = new XMLHttpRequest();
-    //
-    // xhr.onreadystatechange = function(){
-    //     if (xhr.readyState===4 && xhr.status===200)
-    //     {
-    //         var data = JSON.parse(xhr.responseText);
-    //         var itemsContainer = document.createElement('DIV');
-    //
-    //         if(data.status === 'ok'){
-    //
-    //
-    //             for( var i=0,t = data.items.length ; i < t ; ++i ){
-    //                 console.log(data);
-    //                 var item = data.items[i];
-    //                 var itemContainer = document.createElement('DIV');
-    //
-    //                 var itemTitleElement = document.createElement('H2');
-    //                 var itemLinkElement = document.createElement('A');
-    //                 var itemDescriptionElement = document.createElement('P');
-    //
-    //
-    //                 itemLinkElement.setAttribute('href' , item.link);
-    //                 itemLinkElement.innerText = item.title;
-    //                 itemTitleElement.appendChild(itemLinkElement);
-    //
-    //                 // note : make sure the content is XSS safe before using innerHTML
-    //                 itemDescriptionElement.innerHTML = item.description;
-    //
-    //                 itemContainer.appendChild(itemTitleElement);
-    //                 itemContainer.appendChild(itemDescriptionElement);
-    //
-    //                 itemsContainer.appendChild(itemContainer);
-    //
-    //             }
-    //
-    //
-    //
-    //             var titleElement = document.createElement('H1');
-    //             titleElement.innerText = data.feed.title;
-    //
-    //             content.appendChild(titleElement);
-    //             content.appendChild(itemsContainer);
-    //
-    //
-    //         }
-    //     }
-    // };
-    // xhr.open(
-    //     'GET',
-    //     'https://rss2json.com/#rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40nathanpatnam',
-    //     true
-    // );
-    // xhr.send();
+    console.log("yes");
+    var content = document.getElementById('content');
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.onreadystatechange = function(){
+        if (xhr.readyState===4 && xhr.status===200)
+        {
+            var data = JSON.parse(xhr.responseText);
+            var itemsContainer = document.createElement('DIV');
+
+            if(data.status === 'ok'){
+
+
+                for( var i=0,t = data.items.length ; i < t ; ++i ){
+                    console.log(data);
+                    var item = data.items[i];
+                    var itemContainer = document.createElement('DIV');
+
+                    var itemTitleElement = document.createElement('H2');
+                    var itemLinkElement = document.createElement('A');
+                    var itemDescriptionElement = document.createElement('P');
+
+
+                    itemLinkElement.setAttribute('href' , item.link);
+                    itemLinkElement.innerText = item.title;
+                    itemTitleElement.appendChild(itemLinkElement);
+
+                    // note : make sure the content is XSS safe before using innerHTML
+                    itemDescriptionElement.innerHTML = item.description;
+
+                    itemContainer.appendChild(itemTitleElement);
+                    itemContainer.appendChild(itemDescriptionElement);
+
+                    itemsContainer.appendChild(itemContainer);
+
+                }
+
+
+
+                var titleElement = document.createElement('H1');
+                titleElement.innerText = data.feed.title;
+
+                content.appendChild(titleElement);
+                content.appendChild(itemsContainer);
+
+
+            }
+        }
+    };
+    xhr.open(
+        'GET',
+        'https://rss2json.com/#rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40nathanpatnam',
+        true
+    );
+    xhr.send();
 }
 
 /*
